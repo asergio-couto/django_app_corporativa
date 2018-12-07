@@ -1,0 +1,5 @@
+.idea
+*.sqlite
+vappcorp
+*.pyc
+Django-App-Corporativas/__pycache__/
